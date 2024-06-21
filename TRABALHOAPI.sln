@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRABALHOAPI", "TRABALHOAPI.csproj", "{5B7BA188-9956-435E-8687-94E9A960654C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formproduto", "..\Formproduto\Formproduto.csproj", "{09028673-60B7-4E3B-B352-2ED1EC145A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7BA188-9956-435E-8687-94E9A960654C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7BA188-9956-435E-8687-94E9A960654C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7BA188-9956-435E-8687-94E9A960654C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7BA188-9956-435E-8687-94E9A960654C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09028673-60B7-4E3B-B352-2ED1EC145A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09028673-60B7-4E3B-B352-2ED1EC145A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09028673-60B7-4E3B-B352-2ED1EC145A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09028673-60B7-4E3B-B352-2ED1EC145A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D96C8025-274F-437F-8DB6-637E6BBF0455}
+	EndGlobalSection
+EndGlobal
